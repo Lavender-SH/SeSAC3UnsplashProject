@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  SeSAC3UnsplashProject
+
+  Created by 이승현 on 2023/09/11.
+  
+*/
+
+
+"nicknamme_placeholder" = "enter nickname";
+"nickname_result" = "My nickname is %@";
+"age_result" = "I am %d years old";

@@ -1,0 +1,10 @@
+/*
+  InfoPlist.strings
+  SeSAC3UnsplashProject
+
+  Created by 이승현 on 2023/09/11.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "이래 저래서 위치 필요하니 허용하세여";
+CFBundleDisplayName = "새싹";
